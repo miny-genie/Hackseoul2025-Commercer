@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "Commercer",
+  "version": "1.0.0",
+  "description": "여러 쇼핑몰의 상품을 비교하고 최적의 상품을 추천해주는 확장 프로그램",
+  "permissions": [
+    "activeTab",
+    "sidePanel",
+    "storage",
+    "tabs",
+    "contextMenus"
+  ],
+  "host_permissions": [
+    "https://*/*",
+    "http://*/*"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://search.shopping.naver.com/*",
+        "https://www.coupang.com/*",
+        "https://www.gmarket.co.kr/*",
+        "https://www.11st.co.kr/*",
+        "https://www.amazon.com/*",
+        "https://www.aliexpress.com/*"
+      ],
+      "js": ["content.js"],
+      "css": ["content.css"]
+    }
+  ],
+  "action": {
+    "default_title": "Commercer 열기"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
