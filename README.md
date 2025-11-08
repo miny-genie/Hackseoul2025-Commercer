@@ -12,6 +12,16 @@ When you purchase items through the links provided on our platform, it helps us 
 
 ---
 
+## Pitch Deck
+(Not Yet)
+
+---
+
+## DataFlow
+<img width="480" height="720" alt="image" src="https://github.com/user-attachments/assets/12d74b91-edd2-4d94-9874-ec2b19aeb434" />
+
+---
+
 ## How to run(Demo)
 
 ### 1. Project Clone
