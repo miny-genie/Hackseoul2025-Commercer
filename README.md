@@ -18,7 +18,7 @@ When you purchase items through the links provided on our platform, it helps us 
 ---
 
 ## DataFlow
-<img width="480" height="720" alt="image" src="https://github.com/user-attachments/assets/12d74b91-edd2-4d94-9874-ec2b19aeb434" />
+<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/adb136a0-17d3-4916-82d5-f870ccc1c501" />
 
 ---
 
