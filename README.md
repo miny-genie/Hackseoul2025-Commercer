@@ -84,5 +84,6 @@ cd your-repo-name
 - **Global Data Integration** — Expand data coverage to include more international shopping platforms.  
 - **Smart Price Comparison** — Provide dynamic price comparison features across multiple regions and currencies.  
 - **Mobile App Launch** — Develop a mobile-friendly version for seamless shopping experiences anywhere.  
-- **User Insights Dashboard** — Offer personalized dashboards showing purchase patterns and savings reports.  
+- **User Insights Dashboard** — Offer personalized dashboards showing purchase patterns and savings reports.
+- **Blockchain-Powered Global Payments** — Enable seamless one-time checkout with full integration of international currencies through blockchain technology.
 - **B2B Partnerships Welcome** — We are always open to collaborations with shopping platforms worldwide.  
