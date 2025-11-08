@@ -23,17 +23,25 @@ cd your-repo-name
 
 ## Tech Stack
 
-### Frontend(Chrome Extension)
-- **Language:** HTML, CSS, JavaScript  
-
-### Backend
-- **Language:** Java  
-- **Framework:** Spring Boot  
-
-### Database
+### **Frontend(Chrome Extension)**
+- **HTML**
+- **CSS**
+- **JavaScript**
+### **Backend**
+- **Node.js**
+- **Keycloak(Authentication & Authorization)**
+### **AI / ML**
+- **XGBoost**
+- **Gemini API**
+### **Database**
 - **PostgreSQL**
+- **DynamoDB**  
+### **Infrastructure**
+- **AWS EC2**
+- **AWS Lambda**
 
 ### Containerization & Deployment
+> As the platform scales, we plan to introduce a full **DevOps** workflow for continuous integration, deployment, and monitoring.
 - **Docker**
 - **Docker Compose**
 
