@@ -13,7 +13,7 @@ When you purchase items through the links provided on our platform, it helps us 
 ---
 
 ## Pitch Deck
-(Not Yet)
+[Pitch Deck in pdf](https://github.com/miny-genie/Hackseoul2025-Commercer/blob/main/2025Hackseoul-Commercer.pdf)
 
 ---
 
