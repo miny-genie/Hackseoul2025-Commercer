@@ -83,7 +83,7 @@ Open extension and enjoy fun!
 - **Situation:** The platform gains more users, and behavioral data begins to accumulate.  
 - **Approach:** Transition to **machine learning models combined through ensemble techniques**.  
 - **Method:**  
-  - Multiple ML algorithms (e.g., Random Forest, XGBoost, LightGBM) used together  
+  - Multiple ML algorithms (e.g., Random Forest, XGBoost, LightGBM) used together, specific GBDT or LTR  
   - Dynamic weighting based on user behavior (adding/removing from cart, clicks, dwell time)  
   - Personalization weights applied per user  
 - **Goal:** Deliver more adaptive and behavior-aware recommendations as data diversity increases.
