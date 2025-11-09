@@ -29,7 +29,7 @@ When you purchase items through the links provided on our platform, it helps us 
 git clone https://github.com/your-repo-name.git
 cd your-repo-name
 ```
-### 2. Register Extenstion with Developer Mode
+### 2. Register Extension with Developer Mode
 ```
 1. Go to chrome://extensions/ in your browser.
 2. Turn on Developer mode in the top right corner.
