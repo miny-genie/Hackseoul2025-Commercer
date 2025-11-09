@@ -1,4 +1,4 @@
-# Hackseoul2025-Commercer
+# Hackseoul2025-Commercer.
 
 ## Project Overview
 We are an all-in-one shopping information platform that covers both domestic and international online stores.
